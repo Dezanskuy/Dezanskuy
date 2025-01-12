@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dezan
-- 👀 I’m interested in Github
-- 🌱 I’m currently learning Coding
+-  Hi, I’m Dezan
+-  I’m interested in music
+-  I’m currently learning framework javascript
 
 <!---
 Dezanskuy/Dezanskuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
